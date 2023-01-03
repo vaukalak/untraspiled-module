@@ -2,7 +2,7 @@
   "name": "untraspiled-module",
   "version": "1.0.0",
   "description": "just untraspiled node module to test your babel configuration",
-  "main": "index.js",
+  "main": "lib/index.js",
   "repository": "git@github.com:vaukalak/untraspiled-module.git",
   "author": "vaukalak",
   "license": "MIT"
